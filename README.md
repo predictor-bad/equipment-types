@@ -46,7 +46,7 @@ Input must be a CSV file with the following columns:
 Run the script from the terminal:
 
 ```bash
-python equipment_type_analysis.py --csv tenant_equipment_data.csv --threshold 80 --min-matches 2
+python equipment-man-model-analysis.py --csv tenant_equipment_data.csv --threshold 80 --min-matches 2
 ```
 
 ### Arguments:
