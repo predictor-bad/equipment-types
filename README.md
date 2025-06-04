@@ -1,4 +1,4 @@
-# Equipment Type Analysis
+# Equipment Analysis
 
 This Python script analyzes equipment data across multiple customers (tenants) to identify and consolidate common equipments. It performs fuzzy matching on manufacturer names and exact matching on model names to group similar equipment  and generate a master list of commonly used equipment.
 
